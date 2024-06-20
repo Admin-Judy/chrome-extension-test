@@ -1,2 +1,2 @@
 # chrome-extension-test
-test 1
+chrome extension initial build up test
