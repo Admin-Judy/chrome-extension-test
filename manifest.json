@@ -1,6 +1,6 @@
 {
-  "name": "Note App",
-  "description": "A note-taking Chrome extensio",
+  "name": "Memo App",
+  "description": "A Simple Memo",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
