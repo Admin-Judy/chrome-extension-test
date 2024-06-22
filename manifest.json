@@ -7,4 +7,9 @@
     "default_popup": "popup.html",
     "default_icon": "images/icon128.png"
   }
+},
+"permissions": [
+  "storage",
+  "downloads"
+]
 }
