@@ -1,8 +1,7 @@
 # chrome-extension-test
-chrome extension initial build up test
-simple note
+A Simple Memo
 
-Goal
+Analog memo extension enables users to save memos in a traditional format and store them as .txt files for easy access and organization.
 
 
-Mission
+https://chromewebstore.google.com/detail/memo-app/egmofikcmpeplgpkikcekolmhoighdcg
